@@ -97,4 +97,4 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
  
  
 
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=CesarNZT&theme=dracula&hide_border=true&area=true)
+ 
