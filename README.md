@@ -5,7 +5,7 @@
 
 <p align="left" > 
   <b>Speech creators!</b>
-  <img align="right"  width="190" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/cagadaa.webp">
+   <img align="right"  width="190" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/200w.webp">
 </p>
 <p align="left" >
  Meu nome é <b> Ítalo César</b>.
@@ -92,7 +92,7 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 
 
- <img align="center"  width="550" src="https://raw.githubusercontent.com/LimaDev-Max/LimaDev-Max/main/cagadaa.webp">
+
  
  
 
